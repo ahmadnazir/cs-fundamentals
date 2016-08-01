@@ -1,3 +1,4 @@
+
 # 1. Using a basic text editor
 
 ```
@@ -70,6 +71,9 @@ when logged in as root, you will always see a hash '#' in the terminal
 bilal@goku ~#
 ```
 
+# Exercises
 
-
-
+- Create account in github
+- Read a little about git
+- Read about markdown (the format of this file)
+- Start using gedit instead of libre office (later we will move to vim or another advanced text editor) 
