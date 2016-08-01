@@ -78,3 +78,8 @@ bilal@goku ~#
 - Read about pull requests and how to create one
 - Read about markdown (the format of this file)
 - Start using gedit instead of libre office (later we will move to vim or another advanced text editor) 
+
+# Summary
+
+i 2016/08/01 10:46:00 gokustan
+o 2016/08/01 23:59:00 done
