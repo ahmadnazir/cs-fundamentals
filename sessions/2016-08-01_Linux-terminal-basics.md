@@ -75,5 +75,6 @@ bilal@goku ~#
 
 - Create account in github
 - Read a little about git
+- Read about pull requests and how to create one
 - Read about markdown (the format of this file)
 - Start using gedit instead of libre office (later we will move to vim or another advanced text editor) 
