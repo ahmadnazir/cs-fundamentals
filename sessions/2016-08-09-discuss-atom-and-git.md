@@ -41,3 +41,15 @@ sudo apt-get install atom
 ```
 uname -a
 ```
+
+# Exercise
+
+- Try out Atom
+- Read about atom
+- Merge the pull request that contains this file
+- Create a pull request that fixes the timing information in the previous session file
+
+# Summary
+
+i 2016/08/09 22:00:00 gokustan
+o 2016/08/09 23:30:00 done
